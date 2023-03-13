@@ -24,4 +24,7 @@
     "vue",
     "html"
   ],
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
 }
