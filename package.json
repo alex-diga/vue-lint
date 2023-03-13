@@ -12,6 +12,7 @@
     "format": "prettier --write --cache \"./src/**/*.{html,vue,ts,js,json,md}\"",
     "lint:style": "stylelint \"./src/**/*.{css,less,vue,html}\" --fix"
   },
+  "homepage": "https://alex-diga.github.io/vue-lint",
   "lint-staged": {
     "*.{ts,vue,js,tsx,jsx}": [
       "eslint",
